@@ -24,6 +24,5 @@ This repository contains code and associated files for deploying ML models using
 ![good_review](https://raw.githubusercontent.com/Monica-Kulkarni/Amazon-SageMaker-Lambda/master/IMDB%20Review%20Sentiment%20Analysis/good_review.jpg)
 
 
-![bad_review](https://raw.githubusercontent.com/Monica-Kulkarni/Amazon-SageMaker-Lambdatree/master/IMDB%20Review%20Sentiment%20Analysis/bad_review.jpg)
-
+![bad_review](https://raw.githubusercontent.com/Monica-Kulkarni/Amazon-SageMaker-Lambda/master/IMDB%20Review%20Sentiment%20Analysis/bad_review.jpg)
 
